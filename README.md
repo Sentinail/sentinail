@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://w7.pngwing.com/pngs/825/310/png-transparent-multicolored-streaming-template-computer-programming-web-development-computer-icons-source-code-computer-software-coding-text-computer-logo.png"  />
+  <p>💻</p>
 </div>
 
 ###
