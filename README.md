@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Wilson Ponseca from the Philippines<br><br>- 🔭 I’m working as a Junior Web Developer with a strong focus on creating visually appealing and functional websites. I have a passion for bringing digital visions to life through coding expertise.<br><br>- 📚 I'm currently learning and constantly expanding my knowledge and skillset as a curious and driven individual. I thrive on new challenges and excel in multitasking without compromising quality.<br><br>- ⚡ In my free time, I enjoy exploring a diverse range of skills, including proficiency in HTML, CSS, JavaScript, and more. I'm well-prepared to handle various web development projects, from static websites to complex web applications. I also possess essential soft skills like critical thinking, leadership, adaptability, and time management.</p>
+<p align="left">I'm Wilson Ponseca from the Philippines<br><br>- 🔭 I’m working as a Software Engineer with a strong focus on creating visually appealing and functional systems. I have a passion for bringing digital visions to life through coding expertise.<br><br>- 📚 I'm currently learning and constantly expanding my knowledge and skillset as a curious and driven individual. I thrive on new challenges and excel in multitasking without compromising quality.<br><br>- ⚡ In my free time, I enjoy exploring a diverse range of skills, including proficiency in HTML, CSS, JavaScript, and more. I'm well-prepared to handle various web development projects, from static websites to complex web applications. I also possess essential soft skills like critical thinking, leadership, adaptability, and time management.</p>
 
 ###
 
